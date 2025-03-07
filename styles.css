@@ -122,6 +122,7 @@ background: linear-gradient( rgba(191,255,196,1) 35%, rgba(20,254,40,1) 65%);
   display: grid;
   gap: 2rem;
   padding-inline: 30px;
+  overflow-x: hidden;
 }
 .card{
   /* background: #222529; */
